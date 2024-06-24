@@ -15,31 +15,6 @@ O objetivo da análise de CHURN presente nesse notebook é:
 - Apresentar planejamento de próximos passos de ações do time de dados
 
 
-## Organização do projeto
-
-```
-├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
-├── README.md          <- The top-level README for developers using this project.
-├── data
-│   ├── external       <- Data from third party sources.
-│   ├── interim        <- Intermediate data that has been transformed.
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
-│
-├── models             <- Trained and serialized models, model predictions, or model summaries
-│
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
-│
-├── pyproject.toml     <- Project configuration file with package metadata for churn
-│                         and configuration for tools like black
-│
-```
-
---------
-
-
 ## Primeiros passos
 
 Pré requisitos:
