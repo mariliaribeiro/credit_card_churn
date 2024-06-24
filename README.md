@@ -14,6 +14,14 @@ O objetivo da análise de CHURN presente nesse notebook é:
 
 - Apresentar planejamento de próximos passos de ações do time de dados
 
+Você irá encontrar a análise de CHURN no arquivo `churn.ipynb` presente na raiz do repositório.
+
+A base de dados utilizada para a análise é composta pelos três arquivos descritos abaixo:
+
+- `CBO2002 - Ocupacao.csv`: contém dados da [Classificação Brasileira de Opucpações (CBO)](https://empregabrasil.mte.gov.br/76/cbo/) que retrata a realidade das profissões do mercado de trabalho brasileiro com base na Portaria nº 397, de 10.10.2002. O CBO reconhece a existência da profissão mas na sua regulamentação.
+- `cnae.xlsx`: contém dados da [Classificação Nacional de Atividades Econômicas (CNAE)](https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/cadastros/cnpj/classificacao-nacional-de-atividades-economicas-2013-cnae) que padroniza o código de atividades econicas.
+- `case_mep_dados.xls`: a planilha contém várias abas que representam bases de dados como: cadastro de clientes e informações complementares, transações financeiras realizadas com o cartão de crédito, abertura de chamados e clientes que deram CHURN.
+
 
 ## Primeiros passos
 
