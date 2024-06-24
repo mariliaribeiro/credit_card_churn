@@ -53,5 +53,5 @@ poetry update
 
 Se você estiver utilizando o VSCode, assim como eu, será necessário instalar a extensão do jupyter. E depois rodar o comando abaixo presente no arquivo Makefile, para poder relacionar o virtualenv com o kernel do jupter notebook.
 ```
-install-jupyter-kernel
+make install-jupyter-kernel
 ```
